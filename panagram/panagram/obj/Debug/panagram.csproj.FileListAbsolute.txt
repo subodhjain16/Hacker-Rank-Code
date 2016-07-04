@@ -1,0 +1,6 @@
+c:\users\subodh.jain\documents\visual studio 2012\Projects\panagram\panagram\bin\Debug\panagram.exe.config
+c:\users\subodh.jain\documents\visual studio 2012\Projects\panagram\panagram\bin\Debug\panagram.exe
+c:\users\subodh.jain\documents\visual studio 2012\Projects\panagram\panagram\bin\Debug\panagram.pdb
+c:\users\subodh.jain\documents\visual studio 2012\Projects\panagram\panagram\obj\Debug\panagram.csprojResolveAssemblyReference.cache
+c:\users\subodh.jain\documents\visual studio 2012\Projects\panagram\panagram\obj\Debug\panagram.exe
+c:\users\subodh.jain\documents\visual studio 2012\Projects\panagram\panagram\obj\Debug\panagram.pdb

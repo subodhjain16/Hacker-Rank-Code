@@ -1,0 +1,5 @@
+c:\users\subodh.jain\documents\visual studio 2012\Projects\Staircase\Staircase\bin\Debug\Staircase.exe.config
+c:\users\subodh.jain\documents\visual studio 2012\Projects\Staircase\Staircase\bin\Debug\Staircase.exe
+c:\users\subodh.jain\documents\visual studio 2012\Projects\Staircase\Staircase\bin\Debug\Staircase.pdb
+c:\users\subodh.jain\documents\visual studio 2012\Projects\Staircase\Staircase\obj\Debug\Staircase.exe
+c:\users\subodh.jain\documents\visual studio 2012\Projects\Staircase\Staircase\obj\Debug\Staircase.pdb
